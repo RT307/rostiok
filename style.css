@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: darksalmon;
+}
+.marker {
+    height: 20p0x;
+    width: 500px;
+padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: brown;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+  }    
+.marker img{
+    border-radius: 20px;
+}
+.card{
+        padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+}
+.card img{
+    border-radius: 20px;
+    height: 100px;
+    width: 200px;
+}
+.ph{
+font-size:20px; 
+background-color: yellowgreen;
+}
+.link{
+   text-decoration:none; 
+}
+.t{
+     text-align: center;
+    
+}
+body{
+     background-color: lightblue;
+}
+main p{
+    margin: 10px 50px;
+    border-radius: 20px;
+    padding: 10px;
+}
+div p{
+
+ margin: 10px 50px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+div{
+    background-color: maroon;
+}
+.r{
+  padding: 100x;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+
+}
+.g{
+    text-align: center;
+}
+table{
+      background-color: olivedrab;
+      border-collapse: collapse;
+      text-align: center;
+}
+td{
+    border:1px solid whitesmoke;
+}
+.f{
+ color: green;
+}
+footer {
+    background-color: #e5f28f;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
